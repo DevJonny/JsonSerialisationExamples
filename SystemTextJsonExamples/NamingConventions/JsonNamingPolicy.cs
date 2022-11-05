@@ -2,7 +2,7 @@
 using System.Text.RegularExpressions;
 using Xunit;
 
-namespace CustomJsonPropertyNamePolicy;
+namespace CustomJsonPropertyNamePolicy.NamingConventions;
 
 internal class UnderscoreNamingPolicy : JsonNamingPolicy
 {
